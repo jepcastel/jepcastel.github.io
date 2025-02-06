@@ -8,10 +8,8 @@ En aquest espai hi trobaràs recursos relacionats amb la farmacologia clínica i
 
 ### Contacte 
 
-Em pots enviar un missatge de [Linkedin](https://www.linkedin.com/in/jepcastel)
+Em pots enviar un missatge de <a href="https://www.linkedin.com/in/jepcastel" target="_blank">Linkedin</a>.
 
-Alguns[recursos docents](https://slides.com/jepcastel/decks/farmacologia) de la meva activitat professional.
+Alguns <a href="https://slides.com/jepcastel/decks/farmacologia" target="_blank">[recursos docents</a> de la meva activitat professional.
 
-Recull personal de [bibliografia](https://www.bibsonomy.org/user/jepcastel).
-
-
+Recull personal de <a href="https://www.bibsonomy.org/user/jepcastel" target="_blank">bibliografia</a>.
