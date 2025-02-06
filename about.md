@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: false
 ---
 
 En aquest espai hi trobaràs recursos relacionats amb la farmacologia clínica i la farmacoepidemiologia. 
