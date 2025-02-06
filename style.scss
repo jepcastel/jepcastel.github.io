@@ -217,6 +217,7 @@ nav {
   font-size: 18px;
 
   @include mobile {
+    font-family: $georgia;
     float: none;
     margin-top: 9px;
     display: block;
