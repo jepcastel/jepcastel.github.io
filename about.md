@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+En aquest espai hi trobaràs recursos relacionats amb la farmacologia clínica i la farmacoepidemiologia. 
 
-### More Information
+### Contacte 
 
-A place to include any other types of information that you'd like to include about yourself.
+Em pots enviar un missatge de [Linkedin](https://www.linkedin.com/in/jepcastel)
 
-### Contact me
+Alguns[recursos docents](https://slides.com/jepcastel/decks/farmacologia) de la meva activitat professional.
 
-[email@domain.com](mailto:email@domain.com)
+Recull personal de [bibliografia](https://www.bibsonomy.org/user/jepcastel).
+
+
