@@ -13,3 +13,8 @@ permalink: /recursos/
 
 - <a href="https://www.drugs.com/drug_interactions.html" target="_blank">Drugs.com </a>. Drug Interaction Checker.
 - <a href="https://reference.medscape.com/drug-interactionchecker" target="_blank">Medscape.com</a>. Drug Interaction Checker.
+
+### Seguretat de medicaments
+- <a href="https://www.aemps.gob.es/medicamentos-de-uso-humano/farmacovigilancia-de-medicamentos-de-uso-humano/informacion-de-sospechas-de-reacciones-adversas-a-medicamentos-de-uso-humano/informacion/" target="_blank">FEDRA</a>. Base de dades Espanyola de sospites de reaccions adverses.
+- <a href="https://www.adrreports.eu/es/disclaimer.html" target="_blank">EudraVigilance</a>. Base de dades Europea  de sospites de reaccions adverses.
+- <a href="https://www.vigiaccess.org/" target="_blank">VigiAccess</a>. Base de dades Mundial  de sospites de reaccions adverses.
