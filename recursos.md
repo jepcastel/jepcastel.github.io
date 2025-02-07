@@ -7,6 +7,7 @@ permalink: /recursos/
 
 ### Informació de medicaments
 - <a href="https://cima.aemps.es/cima/publico/buscadoravanzado.html" target="_blank">Ficha tècnica dels medicaments comercialitzats a Espanya</a>. Agencia Española de medicamentos y Productos Sanitarios (AEMPS).
+- <a href="https://cima.aemps.es/cima/publico/buscadoravanzado.html" target="_blank">e-lactancia.org</a> Compatibilitat de medicaments amb la lactància. 
 
 ### Interaccions farmacològiques
 
