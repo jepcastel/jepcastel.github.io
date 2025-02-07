@@ -7,7 +7,7 @@ permalink: /recursos/
 
 ### Informació de medicaments
 - <a href="https://cima.aemps.es/cima/publico/buscadoravanzado.html" target="_blank">Ficha tècnica dels medicaments comercialitzats a Espanya</a>. Agencia Española de medicamentos y Productos Sanitarios (AEMPS).
-- 
+
 ### Interaccions farmacològiques
 
 - <a href="https://www.drugs.com/drug_interactions.html" target="_blank">Drugs.com </a>. Drug Interaction Checker.
