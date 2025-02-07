@@ -5,7 +5,7 @@ permalink: /recursos/
 ---
 ## Llocs i eines que et poden interessar
 
-### Interaccions farmacològiques
+### Informació de medicaments
 - <a href="https://cima.aemps.es/cima/publico/buscadoravanzado.html" target="_blank">Ficha tècnica dels medicaments comercialitzats a Espanya</a>. Agencia Española de medicamentos y Productos Sanitarios (AEMPS).
 - 
 ### Interaccions farmacològiques
