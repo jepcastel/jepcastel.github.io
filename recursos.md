@@ -20,5 +20,6 @@ permalink: /recursos/
 - <a href="https://www.adrreports.eu/es/disclaimer.html" target="_blank">EudraVigilance</a>. Base de dades Europea  de sospites de reaccions adverses.
 - <a href="https://www.vigiaccess.org/" target="_blank">VigiAccess</a>. Base de dades Mundial  de sospites de reaccions adverses.
 - <a href="https://medicaments.gencat.cat/ca/professionals/butlletins/butlleti-de-farmacovigilancia-de-catalunya/" target="_blank">Butlletí de Farmacovigilància de Catalunya</a>.
+- <a href="https://www.comunidad.madrid/servicios/salud/boletin-ram" target="_blank">Boletín RAM</a>. Comunidad de Madrid.
 
 ### Medicaments
