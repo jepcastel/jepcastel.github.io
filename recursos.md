@@ -8,6 +8,7 @@ permalink: /recursos/
 ### Informació de medicaments
 - <a href="https://cima.aemps.es/cima/publico/buscadoravanzado.html" target="_blank">Ficha tècnica dels medicaments comercialitzats a Espanya</a>. Agencia Española de medicamentos y Productos Sanitarios (AEMPS).
 - <a href="https://cima.aemps.es/cima/publico/buscadoravanzado.html" target="_blank">e-lactancia.org</a> Compatibilitat de medicaments amb la lactància. 
+- <a href="https://www.saludyfarmacos.org/lang/es/boletin-farmacos/" target="_blank">Boletín Fármacos</a>. Salud y Fármacos.
 
 ### Interaccions farmacològiques
 
@@ -19,3 +20,5 @@ permalink: /recursos/
 - <a href="https://www.adrreports.eu/es/disclaimer.html" target="_blank">EudraVigilance</a>. Base de dades Europea  de sospites de reaccions adverses.
 - <a href="https://www.vigiaccess.org/" target="_blank">VigiAccess</a>. Base de dades Mundial  de sospites de reaccions adverses.
 - <a href="https://medicaments.gencat.cat/ca/professionals/butlletins/butlleti-de-farmacovigilancia-de-catalunya/" target="_blank">Butlletí de Farmacovigilància de Catalunya</a>.
+
+### Medicaments
